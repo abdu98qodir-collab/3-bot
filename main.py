@@ -7,7 +7,7 @@ from aiogram.filters import CommandStart
 from aiogram.types import CallbackQuery, FSInputFile, Message
 from aiogram.utils.keyboard import InlineKeyboardBuilder, ReplyKeyboardBuilder
 
-TOKEN = "8743989807:AAFqhkHmFAcYlLxJYZEWcENu62Wc4pGUyho"
+TOKEN = "8631386176:AAGZ0OpS21IuoM2VJU_uUYyOnHjWkpq_56g"
 
 router = Router()
 
